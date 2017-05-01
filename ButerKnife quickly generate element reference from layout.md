@@ -2,7 +2,8 @@
 ## File->Settings->Plugins
 ![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/150045666.png?imageslim)
 ## 'Browse repositories...'->'Manage repositories...'
-![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/150215082.png?imageslim)
+### https://jcenter.bintray.com
+![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/162207252.png?imageslim)
 
 # 2、搜索并安装 'Android ButterKnife Zelezny' 插件
 ## 'Browse repositories...'
@@ -10,7 +11,7 @@
 
 # 3、藉由插件生成代码
 ## 在布局名上右键击鼠标，在弹出菜单中点按‘Generate...’项
-![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/151147099.png?imageslim)
+![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/162409870.png?imageslim)
 
 ## 再次弹出列表中，会有 ‘Generate ButterKnife Injections’ 选项（非布局名称不会有此项）
 ![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/152712036.png?imageslim)
