@@ -3,6 +3,8 @@
 ![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/150045666.png?imageslim)
 #### 'Browse repositories...'->'Manage repositories...'
 ###### https://jcenter.bintray.com
+###### 注意,需要先把 Android Studio 之前设置的 HTTP 代理去掉,否则打不开的.
+###### 位置在 Settings 中第一项 Appearance &... 中 System Setting 下 HTTP Proxy,选 No proxy
 ![mark](http://oo30yo29t.bkt.clouddn.com/blog/20170501/162207252.png?imageslim)
 
 # 2、搜索并安装 'Android ButterKnife Zelezny' 插件
